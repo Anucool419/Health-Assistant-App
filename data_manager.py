@@ -10,7 +10,7 @@ from langchain.agents import Tool,initialize_agent
 # Initialize OpenAI API
 load_dotenv(find_dotenv())
 openai_api_key=os.getenv("OPENAI_API_KEY")
-openai_llm = OpenAI(temperature=0, openai_api_key=openai_api_key)
+openai_llm = OpenAI(temperature=0, openai_api_key=openai_api_key) #One needs to create an OpenAI API key to access this. 
 
 
 # Define prompt templates
