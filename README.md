@@ -23,7 +23,7 @@ To set up the project on your local machine, follow these steps:
    venv\Scripts\activate     # For Windows
 ```
 
-5.Run the application
+4. Run the application
   ```bash
    streamlit run app.py
 ```
