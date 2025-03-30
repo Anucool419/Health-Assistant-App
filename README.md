@@ -15,34 +15,34 @@ To set up the project on your local machine, follow these steps:
 2. Go to Project File
   ```bash
    cd Health-Assistant-App
-
+```
 3. Setup virtual environment
   ```bash
    python -m venv venv
    source venv/bin/activate  # For Linux/Mac
-   venv\Scripts\activate     # For Windows ```
+   venv\Scripts\activate     # For Windows
+```
 4. Install necessary requirements
   ```bash
-   pip install -r requirements.txt```
+   pip install -r requirements.txt
+```
 5.Run the application
   ```bash
-   streamlit run app.py```
+   streamlit run app.py
+```
 
 ---
 
-```markdown
-## Usage
-1. Open your browser and go to `http://localhost:8501`.
-2. Use the navigation bar at the top to access different sections.
-3. Upload images or watch health-related videos within the app.
-4. Input your health data and get instant insights.
+##   Usage
+1.  Open your browser and go to `http://localhost:8501
+2.  Input your health data and get instant insights.
 
-##Technologies Used
-- **Streamlit**: Framework for building interactive web apps.
-- **Python**: Backend programming.
-- **Git/GitHub**: Version control and repository hosting.
-- **HTML/CSS**: For custom styling.
 
-##Video credit in the Project goes to TheHealthNerd YouTube Channel
+##  Technologies Used
+-  **Streamlit** : Framework for building interactive web apps.
+-  **Python** : Backend programming.
+-  **Git/GitHub** : Version control and repository hosting.
+
+##  Video credit in the Project goes to **TheHealthNerd** YouTube Channel
 
 
