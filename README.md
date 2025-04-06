@@ -22,8 +22,12 @@ To set up the project on your local machine, follow these steps:
    source venv/bin/activate  # For Linux/Mac
    venv\Scripts\activate     # For Windows
 ```
+4. Install necessary requirements
+  ```bash
+   pip install -r requirements.txt
+```
 
-4. Run the application
+5. Run the application
   ```bash
    streamlit run app.py
 ```
