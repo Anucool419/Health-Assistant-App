@@ -41,7 +41,7 @@ To set up the project on your local machine, follow these steps:
 
 ##  Technologies Used
 -  **Streamlit** : Framework for building interactive web apps.
--  **Python** : Backend programming.
+-  **Python** : Backend programming (LangChain).
 -  **Git/GitHub** : Version control and repository hosting.
 
 ##  Video credit in the Project goes to **TheHealthNerd** YouTube Channel
